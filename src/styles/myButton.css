@@ -1,0 +1,15 @@
+button{
+    outline: none;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    white-space: nowrap;
+}
+
+.default-btn{
+    background-color: #F0C041;
+}
+
+.remove-item{
+    
+}
